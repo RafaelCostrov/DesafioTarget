@@ -1,0 +1,14 @@
+Primeira ida:
+
+Ligo o interruptor 1 por um longo período e o desligo.
+Ligo o interruptor 2.
+Na mesma hora, vou até uma das 3 salas:
+Se a lâmpada estiver acesa, pertence ao interruptor 2.
+Se a lâmpada estiver desligada e quente ao toque, pertence ao interruptor 1.
+Se a lâmpada estiver desligada e fria ao toque, pertence ao interruptor 3.
+
+Segunda ida:
+Ligo um dos interruptores faltantes e verifico na sala se está ligado ou não.
+
+
+
